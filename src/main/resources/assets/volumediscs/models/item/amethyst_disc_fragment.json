@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "volumediscs:item/amethyst_disc_fragment"
+  }
+}

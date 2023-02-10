@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "volumediscs:music_disc_beginning"
+    },
+    "title": {
+      "translate": "advancement.volumediscs.root.title",
+      "color": "#0AD90A"
+    },
+    "description": {
+      "translate": "advancement.volumediscs.root.desc",
+      "color": "#0BF00B"
+    },
+    "background": "minecraft:textures/block/jukebox_side.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {}
+}

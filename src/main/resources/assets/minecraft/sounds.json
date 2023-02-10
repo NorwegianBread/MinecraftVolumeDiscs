@@ -1,0 +1,122 @@
+{
+  "music_disc.11": {
+    "sounds": [
+      {
+        "name": "volumediscs:11",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.13": {
+    "sounds": [
+      {
+        "name": "volumediscs:13",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.blocks": {
+    "sounds": [
+      {
+        "name": "volumediscs:blocks",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.cat": {
+    "sounds": [
+      {
+        "name": "volumediscs:cat",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.chirp": {
+    "sounds": [
+      {
+        "name": "volumediscs:chirp",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.far": {
+    "sounds": [
+      {
+        "name": "volumediscs:far",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.five": {
+    "sounds": [
+      {
+        "name": "volumediscs:five",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.mall": {
+    "sounds": [
+      {
+        "name": "volumediscs:mall",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.mellohi": {
+    "sounds": [
+      {
+        "name": "volumediscs:mellohi",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.otherside": {
+    "sounds": [
+      {
+        "name": "volumediscs:otherside",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.pigstep": {
+    "sounds": [
+      {
+        "name": "volumediscs:pigstep",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.stal": {
+    "sounds": [
+      {
+        "name": "volumediscs:stal",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.strad": {
+    "sounds": [
+      {
+        "name": "volumediscs:strad",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.wait": {
+    "sounds": [
+      {
+        "name": "volumediscs:wait",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.ward": {
+    "sounds": [
+      {
+        "name": "volumediscs:ward",
+        "stream": true
+      }
+    ]
+  }
+}

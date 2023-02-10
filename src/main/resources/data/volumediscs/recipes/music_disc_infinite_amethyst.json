@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "volumediscs:amethyst_disc_fragment"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "pattern": [
+    "FFF",
+    "FAF",
+    "FFF"
+  ],
+  "result": {
+    "item": "volumediscs:music_disc_infinite_amethyst"
+  }
+}
